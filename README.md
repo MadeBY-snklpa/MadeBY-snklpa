@@ -1,16 +1,13 @@
-### Hi there 👋
+I do cloud things @microsoft and on YouTube.
+![code](https://user-images.githubusercontent.com/65341172/224936160-c604dad2-8ff6-451a-9169-651f63dcaece.gif)
 
-<!--
-**MadeBY-snklpa/MadeBY-snklpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/65341172/224936160-c604dad2-8ff6-451a-9169-651f63dcaece.gif" width="415px">
+                                                                                                                             
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/madebygps)
+
+<br />
+
+                                                                                                                             
+                                                                                                                             
