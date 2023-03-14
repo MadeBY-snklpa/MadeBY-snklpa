@@ -1,7 +1,9 @@
+ 
+**Hi there! 👋**
 
-Hi there! 👋
+*My name is Sankalpa Silva, and I am currently studying to become a Cloud Infrastructure Engineer. I have a passion for technology and love to explore new and innovative ways to solve complex problems. One motto that I always believe in is "power is not given, it has to be taken." This philosophy motivates me to work hard, constantly learn and develop my skills, and strive for excellence in everything I do. Thank you for stopping by my profile!*
+ 
 
-My name is Sankalpa Silva, and I'm currently studying to become a cloud infrastructure engineer. I'm passionate about all things technology and am excited to learn more about cloud computing and its various components. My ultimate goal is to leverage my skills and knowledge to create secure, scalable, and efficient cloud infrastructures for businesses of all sizes. I'm always eager to expand my horizons and am constantly seeking new challenges to push myself to new heights. Thank you for stopping by my profile!
 
  <img src="https://user-images.githubusercontent.com/65341172/224936160-c604dad2-8ff6-451a-9169-651f63dcaece.gif" height="300px" width="400px">
                                                                                                                              
