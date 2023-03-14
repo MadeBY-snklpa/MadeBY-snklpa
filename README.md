@@ -5,7 +5,7 @@ I do .
                                                                                                                              
 
 
-[![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/madebygps)
+[![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/snklp_silva)
 
 <br />
 
