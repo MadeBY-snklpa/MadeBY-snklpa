@@ -1,7 +1,7 @@
  
 **Hi there! 👋**
 
-*My name is Sankalpa Silva, and I am currently studying to become a Cloud Infrastructure Engineer. I have a passion for technology and love to explore new and innovative ways to solve complex problems. One motto that I always believe in is "power is not given, it has to be taken." This philosophy motivates me to work hard, constantly learn and develop my skills, and strive for excellence in everything I do. Thank you for stopping by my profile!*
+*My name is Sankalpa Silva, and I am currently studying to become a Data center operations engineer. I have a passion for technology and love to explore new and innovative ways to solve complex problems. One motto that I always believe in is "power is not given, it has to be taken." This philosophy motivates me to work hard, constantly learn and develop my skills, and strive for excellence in everything I do. Thank you for stopping by my profile!*
  
 
 
