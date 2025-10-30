@@ -1,7 +1,7 @@
  
 **Hi there! 👋**
 
-*I'm Lucas — an Infrastructure and Security Consultant with hands-on experience in Azure cloud, networking, and architecture.
+*I'm Sankalpa silva — an Infrastructure and Security Consultant with hands-on experience in Azure cloud, networking, and architecture.
 
 I design and implement secure, scalable, and high-performance infrastructure solutions that help organizations operate efficiently and safely in the cloud. My focus areas include cloud security, identity management, network design, infrastructure automation, and governance across enterprise environments.
 
